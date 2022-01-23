@@ -27,7 +27,9 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, If you want to contribute, check
         {` `}
-        <a href="https://github.com/data-engineering-for-all-kr/data-engineering-for-all-kr.github.io">the github page</a>
+        <a href="https://github.com/data-engineering-for-all-kr/data-engineering-for-all-kr.github.io">
+          the github page
+        </a>
       </footer>
     </div>
   )
