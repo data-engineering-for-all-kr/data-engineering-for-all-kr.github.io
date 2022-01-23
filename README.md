@@ -4,7 +4,32 @@
 
 ## Data Engineering for all에 기여하는 방법 
 
+### 개발 환경 설정하기`
+
+- 기여하기 위해서는 개발 환경을 맞추어야 합니다. 우선 본 Repo를 clone 받아야 합니다.
+
+```
+$ git clone git@github.com:data-engineering-for-all-kr/data-engineering-for-all-kr.github.io.git`
+```
+
+- clone 받은 directory에 진입한 후 npm package를 설치해 줍니다.
+
+```
+$ make init
+or
+$ npm install
+```
+
+### PR 생성하기
+
 - Post를 추가하거나 수정할 때에는 PR을 생성해주셔야 합니다.
+- PR 생성 전 Local에서 test해주시기 바랍니다. Project directory에서 아래 명령어를 통해 local server에서 test 할 수 있습니다.
+
+```
+$ make develop
+or
+$ npm run develop
+```
 
 ### 새 Post를 추가하는 방법
 
