@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Data engineering for all",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Kyeongmin Woo <wgm0601@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/data-engineering-for-all-kr/data-engineering-for-all-kr.github.io/issues"
   },
   "dependencies": {
     "gatsby": "^4.5.4",
@@ -35,15 +35,15 @@
   "devDependencies": {
     "prettier": "^2.5.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://data-engineering-for-all-kr.github.io/",
   "keywords": [
-    "gatsby"
+    "data-engineering"
   ],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/data-engineering-for-all-kr/data-engineering-for-all-kr.github.io"
   },
   "scripts": {
     "build": "gatsby build",
