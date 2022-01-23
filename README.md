@@ -20,6 +20,8 @@ or
 $ npm install
 ```
 
+- 설치가 잘 되지 않는다면 [Gatsby 공식 문서](https://www.gatsbyjs.com/docs/tutorial/part-0/)를 참고해주시기 바랍니다.
+
 ### PR 생성하기
 
 - Post를 추가하거나 수정할 때에는 PR을 생성해주셔야 합니다.
@@ -29,6 +31,12 @@ $ npm install
 $ make develop
 or
 $ npm run develop
+```
+
+- 또한 commit 전 JS 파일과 Markdown 파일을 formatting을 해주는 것이 좋습니다.
+
+```
+$ make format
 ```
 
 ### 새 Post를 추가하는 방법
@@ -81,4 +89,5 @@ $ tree -I 'node_modules|static|public'
 
 ## References
 
-- [gatsby-starter-blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog)
+- [Template - gatsby-starter-blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog)
+- [Formatter - Prittier](https://prettier.io)
