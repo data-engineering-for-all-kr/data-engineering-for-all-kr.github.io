@@ -1,15 +1,15 @@
 # Data Engineering for all
 
-- [Go to blog](<https://data-engineering-for-all-kr.github.io/>)
+- [Go to blog](https://data-engineering-for-all-kr.github.io/)
 
-## Data Engineering for all에 기여하는 방법 
+## Data Engineering for all에 기여하는 방법
 
-### 개발 환경 설정하기`
+### 개발 환경 설정하기
 
 - 기여하기 위해서는 개발 환경을 맞추어야 합니다. 우선 본 Repo를 clone 받아야 합니다.
 
 ```
-$ git clone git@github.com:data-engineering-for-all-kr/data-engineering-for-all-kr.github.io.git`
+$ git clone git@github.com:data-engineering-for-all-kr/data-engineering-for-all-kr.github.io.git
 ```
 
 - clone 받은 directory에 진입한 후 npm package를 설치해 줍니다.
@@ -45,7 +45,7 @@ description: "예시 템플릿 입니다."
 ---
 ```
 
-- [index.md template](<content/template/exmaple/index.md>)에서 확인할 수 있습니다.
+- [index.md template](content/template/exmaple/index.md)에서 확인할 수 있습니다.
 
 ### 기존 Post를 수정하는 방법
 
@@ -81,4 +81,4 @@ $ tree -I 'node_modules|static|public'
 
 ## References
 
-- [gatsby-starter-blog](<https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog>)
+- [gatsby-starter-blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog)
