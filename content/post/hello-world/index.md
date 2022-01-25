@@ -4,6 +4,8 @@ date: "2022-01-23"
 description: "예시 템플릿 입니다."
 ---
 
+실시간으로 바뀌나요?
+
 This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
