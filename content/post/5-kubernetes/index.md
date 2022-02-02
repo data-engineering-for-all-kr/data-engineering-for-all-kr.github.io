@@ -1,7 +1,7 @@
 ---
-title: 5. Kubernetes
+title: "5. Kubernetes Introduction 1"
 date: "2022-02-01"
-description: "쿠버네티스"
+description: "Kubernetes의 구성요소와 기초적인 동작 방식"
 author: Kyeongmin Woo
 ---
 
@@ -174,10 +174,6 @@ Deployment의 Pod template가 변경되면 Deployment는 rollout을 진행합니
 Job은 특정 작업을 수행하는 Pod을 생성해야 할 때 사용하는 Workload Resource 입니다. 특정 횟수만큼 작업이 성공적으로 수행되면 Job은 자신이 생성한 Pod을 모두 제거하게 되는데, 이때 Job은 정의에 따라 차례대로 Pod을 하나씩 생성할 수도, 병렬적으로 Pod을 생성하여 동시에 실행하도록 할 수도 있습니다.
 
 CronJob은 반복적으로 Job을 생성해주는 Workload Resource 입니다. 정의에 따라 한 시간에 한 번, 하루에 한 번과 같은 식으로 Job을 생성하도록 할 수 있습니다.
-
-## Minikube
-
-## Kubeclt
 
 ## References
 
