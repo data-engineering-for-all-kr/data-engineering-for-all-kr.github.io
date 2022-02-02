@@ -1,7 +1,8 @@
 ---
 title: Example Template
-date: "2022-01-23"
+date: "2022-01-24"
 description: "예시 템플릿 입니다."
+author: foo
 ---
 
 This is my first post on my new fake blog! How exciting!
