@@ -2,6 +2,7 @@
 title: 5. Kubernetes
 date: "2022-02-01"
 description: "쿠버네티스"
+author: Kyeongmin Woo
 ---
 
 ## 쿠버네티스란
@@ -25,7 +26,7 @@ kubernetes는 이러한 Container로 동작하는 서비스들이 안정적으�
 
 Kubernetes는 여러 컴퓨터를 묶어 하나의 Cluster 처럼 동작할 수 있도록 합니다. 이때 개별 컴퓨터를 Node(또는 Worker Node)라고 부릅니다. 그리고 이러한 Node들을 통합적으로 관리하는 주체를 Control Plane 이라고 합니다. [kubernetes 홈페이지](https://kubernetes.io/docs/concepts/overview/components/)의 아래 이미지를 통해 보다 직관적으로 이해할 수 있습니다.
 
-![Components of Kubernetes](components-of-kubernetes.png)
+![Components of Kubernetes](./components-of-kubernetes.png)
 
 ## 1. Control Plane Components
 
