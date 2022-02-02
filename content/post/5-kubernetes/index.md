@@ -181,4 +181,9 @@ CronJob은 반복적으로 Job을 생성해주는 Workload Resource 입니다. �
 
 ## References
 
-- [kubernetes components](https://kubernetes.io/docs/concepts/overview/components/)
+- [kubernetes Docs - components](https://kubernetes.io/docs/concepts/overview/components/)
+- [Kubernetes Docs - POD](https://kubernetes.io/docs/concepts/workloads/pods/)
+- [Kubernetes Docs - Replica Set](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
+- [Kubernetes Docs - Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [Kubernetes Docs - Job](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+- [Kubernetes Docs - CronJob](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/)
