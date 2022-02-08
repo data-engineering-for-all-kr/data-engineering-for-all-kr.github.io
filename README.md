@@ -47,6 +47,7 @@ $ make format
 - `content/kafka` -> `3-kafka`
 - `content/elastic-search` -> `4-elastic-search`
 - `content/kubernetes` -> `5-kubernetes`
+- `content/druid` -> `6-druid`
 
 ### 새 Post를 추가하는 방법
 
