@@ -47,7 +47,7 @@ $ make format
 - `content/kafka` -> `3-kafka`
 - `content/elastic-search` -> `4-elastic-search`
 - `content/kubernetes` -> `5-kubernetes`
-
+- `book-01` 
 ### 새 Post를 추가하는 방법
 
 - 모든 post는 `content/post` 디렉토리에 저장되어 있습니다. 따라서 새로운 Post를 작성한다면 `content/post` 디렉토리에 새 Post를 위한 디렉토리와, index.md 파일을 생성하면 됩니다.
